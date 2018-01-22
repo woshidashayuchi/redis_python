@@ -1,0 +1,2 @@
+# redis_python
+一些关于python操作redis的基础与技巧
